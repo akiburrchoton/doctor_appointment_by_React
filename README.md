@@ -1,4 +1,4 @@
-# 🏥 Medical Appointment Booking App
+# 🏥 Doctor Appointment Booking App
 
 A modern and responsive React-based web application for booking and managing doctor appointments, designed to deliver a smooth user experience with real-time feedback, intuitive navigation, and persistent data handling.
 
@@ -6,7 +6,7 @@ A modern and responsive React-based web application for booking and managing doc
 
 The application is deployed and accessible at:
 
-- **Netlify**:
+- **Netlify**: https://doctorappointment-akib.netlify.app/
 
 ## 🚀 Features
 
@@ -37,10 +37,16 @@ The application is deployed and accessible at:
 - **React Router DOM**
 - **Recharts**
 - **React Toaster**
+- **React Countup**
 - **localStorage** (for persistent state)
 - **Tailwind CSS & Daisy UI**
 - **Git & GitHub – Version control and repository hosting**
 - **Netlify & Surge – Deployment platforms**
+
+## 📌 Future Tasks
+
+- **Implementing flitering doctors feature**
+- **Responsive Design**
 
 ## 📦 Installation
 
